@@ -1280,7 +1280,7 @@
         "manufacturerCode": 4098,
         "imageType": 365,
         "sha512": "4389ce2ef721b83570736b494b1aede672671dcb816962546a5c43dd8501779a96d255d7387c674cff3aed111f4cb8bd1ff4cfad85498a93b8438dc1f31276cb",
-        "url": "https://github.com/DannyTheGhost/OTA/tree/master/images/ZigbeeMinimalSoc.ota",
+        "url": "https://github.com/DannyTheGhost/OTA/tree/master/images/Tuya/ZigbeeMinimalSoc.ota",
         "path": "images/Tuya/ZigbeeMinimalSoc.ota"
     }
 ]
