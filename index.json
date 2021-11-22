@@ -1275,12 +1275,12 @@
         "path": "images/Develco/ED_Smoke_Sensor_SSIG_4.0.2.zigbee"
     },
     {
-        "fileVersion": 25,
-        "fileSize": 257406,
+        "fileVersion": 41,
+        "fileSize": 203426,
         "manufacturerCode": 4098,
         "imageType": 365,
-        "sha512": "fe6a891e506393c763dd047164fa4e9f55a64dc0c73a47f3cc77123821f6788741d62f31788371829359852d01e3fde5f91511236dea398ef29663d074b743f6",
-        "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Tuya/SmartLED_01.ota",
-        "path": "images/Tuya/SmartLED_01.ota"
+        "sha512": "d40cbd0bd0769819e1c84fce84e18f21ca71d46bdc66303d590dfb0514f8310cc29f66c54855e85dae83f64fec43fe80df8d38f61cf5bb23b1130381037d3ddd",
+        "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Tuya/ZigbeeMinimalSoc_test1.ota",
+        "path": "images/Tuya/ZigbeeMinimalSoc_test1.ota"
     }
 ]
