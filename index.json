@@ -1276,11 +1276,11 @@
     },
     {
         "fileVersion": 25,
-        "fileSize": 169714,
+        "fileSize": 257406,
         "manufacturerCode": 4098,
         "imageType": 365,
-        "sha512": "8fe2c4c6512ac0f6e65adce6f04b8db239effaebd539335c301970393005488f4007b8d4bf2dd201bfff16416d48d7d75c9349958311a7189b83d5473d3b60c9",
-        "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Tuya/stripledOTA.ota",
-        "path": "images/Tuya/stripledOTA.ota"
+        "sha512": "fe6a891e506393c763dd047164fa4e9f55a64dc0c73a47f3cc77123821f6788741d62f31788371829359852d01e3fde5f91511236dea398ef29663d074b743f6",
+        "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Tuya/SmartLED_01.ota",
+        "path": "images/Tuya/SmartLED_01.ota"
     }
 ]
