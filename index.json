@@ -1279,7 +1279,7 @@
         "fileSize": 169714,
         "manufacturerCode": 4098,
         "imageType": 365,
-        "sha512": "2c82ff40990ae1ed1c9b7a60678f345036857b28f7884f138e195e61180772edace08170513c2c524896997b785ed847b651c7f2d592228b3f467b9014ab70a7",
+        "sha512": "56799faf707b445dd1e93716a14d359e564202db257be02cb51af31ad50ff3b0bb2e808177b4acdb63704ae447dcc18739b4b1229d4d55294fcf6f3cd177b011",
         "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Tuya/stripledOTA.ota",
         "path": "images/Tuya/stripledOTA.ota"
     }
